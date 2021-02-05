@@ -2,6 +2,16 @@
   text-align: center;
 }
 
+.Birthday-Card{
+
+  background-color: #a13216;
+  border: 1px solid red;
+  width: 500px;
+  text-align: left;
+  
+  margin-left: 100px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -36,3 +46,27 @@
     transform: rotate(360deg);
   }
 }
+
+.Birthday_Guy img{
+
+  border-radius:50%;
+  width:70px;
+  height: 70px;
+  vertical-align: middle;
+  margin: 5px;
+  
+  
+}
+.Birthday_Guy .details{
+
+  margin-left: 10px;
+  vertical-align: middle;
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 10px;
+  
+}
+.year{
+  margin-left: 70px;
+}
+
